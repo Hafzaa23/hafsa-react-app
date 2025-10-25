@@ -7,8 +7,6 @@ function App() {
       <Greeting name="Hafsa" surname="Ahmed" />
 
       <Header />
-      <Header />
-      <Header />
     </div>
   );
 }
